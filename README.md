@@ -1,5 +1,5 @@
 # Bookstore-Management-System
-A MAMP bookstore management system where buyers can register for an account, search books, and buy books. Sellers can sells books, and manage the inventory of the books.
+A MAMP bookstore management system where buyers can register for an account, search books, and buy books. Sellers can sells books, and manage the inventory of the books. And more.
 
 ### Technologies
   HTML/CSS/Javascript
